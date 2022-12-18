@@ -1,2 +1,2 @@
-# Learn Project 1
+# Learn Projects
 Learn first time
